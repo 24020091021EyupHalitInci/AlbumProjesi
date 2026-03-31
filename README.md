@@ -28,7 +28,7 @@ PHP ve MySQL kullanılarak geliştirilmiştir.
 1. Bu repoyu indir veya klonla:
 
    ```bash
-   git clone https://https://github.com/24020091021EyupHalitInci/AlbumProjesi
+   git clone https://github.com/24020091021EyupHalitInci/AlbumProjesi
    ```
 
 2. Projeyi bir localhost ortamına koy:
